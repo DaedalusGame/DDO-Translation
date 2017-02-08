@@ -6,6 +6,11 @@
 ことから、全ての民にとって寄り所と言える地域に
 なった。そのため、比較的魔物の勢力は弱いが
 オークなど強力な魔物の侵入は脅威となる</original>
+    <translation>A large plain spread across central Lestania.
+A temple was built where the white dragon fell, and it became
+an area that can be said to be a stronghold for all people. Therefore,
+although nearby monsters are relatively weak, the intrusion of
+powerful demons such as orcs poses a threat.</translation>
   </message>
   <message>
     <key>SPOT_INFO_</key>
@@ -22,6 +27,11 @@
 と原因不明の病により活力が落ちつつある
 この異変には、廃屋化したハイデル教会が何らか
 の形で関わるのではと噂されている</original>
+    <translation>A village located in the southern part of Hidell Plains.
+Wine-making, such as fruit wines was a thriving trade, but in recent years,
+trade and health have declined from bad crop harvests and a mysterious disease.
+After rumors about the nearby Hidell Chapel's involvement surfaced, the chapel
+has since been abandoned.</translation>
   </message>
   <message>
     <key>SPOT_INFO_</key>
@@ -30,6 +40,10 @@
 となり、ようやく修復された
 これでポーン郷、リンウッド方面との往来は
 回復するだろう</original>
+    <translation>The bridge that formerly had connected the Hidell Plains and
+Mysree Forest was destroyed by flood damage, but resources can be arranged at Tel
+Village to repair the broken bridge. With this, the traffic to and from Lynwood 
+will be restored.</translation>
   </message>
   <message>
     <key>SPOT_INFO_</key>
